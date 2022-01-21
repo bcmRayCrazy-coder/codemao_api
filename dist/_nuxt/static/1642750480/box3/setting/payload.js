@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/box3/setting", {data:[{}],fetch:{},mutations:void 0});

@@ -143,3 +143,8 @@ Strict-Transport-Security: max-age=15724800; includeSubDomains
         </v-card>
     </div>
 </template>
+<style>
+    pre{
+        text-align: left;
+    }
+</style>
