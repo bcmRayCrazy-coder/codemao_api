@@ -6,6 +6,7 @@
       :clipped="clipped"
       fixed
       app
+      src="https://cdn.vuetifyjs.com/images/backgrounds/bg-2.jpg"
     >
       <v-list>
         <v-list-item
